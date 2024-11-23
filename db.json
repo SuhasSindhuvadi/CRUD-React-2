@@ -1,0 +1,136 @@
+{
+    "employee": [
+        {
+            "id": 1,
+            "empId": "EMP100",
+            "empName": "John",
+            "empAge": 25,
+            "empSal": 50000,
+            "empDept": "IT",
+            "empGen": "Male",
+            "empEmail": "jHr6Z@example.com",
+            "empPhone": 1234567890,
+            "empLoc": "Chennai"
+        },
+        {
+            "id": 2,
+            "empId": "EMP101",
+            "empName": "Amit",
+            "empAge": 28,
+            "empSal": 60000,
+            "empDept": "Finance",
+            "empGen": "Male",
+            "empEmail": "amit12@example.com",
+            "empPhone": 9876543210,
+            "empLoc": "Mumbai"
+        },
+        {
+            "id": 3,
+            "empId": "EMP102",
+            "empName": "Sita",
+            "empAge": 30,
+            "empSal": 55000,
+            "empDept": "HR",
+            "empGen": "Female",
+            "empEmail": "sitaHR@example.com",
+            "empPhone": 9123456780,
+            "empLoc": "Delhi"
+        },
+        {
+            "id": 4,
+            "empId": "EMP103",
+            "empName": "Ravi",
+            "empAge": 27,
+            "empSal": 48000,
+            "empDept": "IT",
+            "empGen": "Male",
+            "empEmail": "raviIT@example.com",
+            "empPhone": 8098765432,
+            "empLoc": "Bangalore"
+        },
+        {
+            "id": 5,
+            "empId": "EMP104",
+            "empName": "Lakshmi",
+            "empAge": 32,
+            "empSal": 62000,
+            "empDept": "Admin",
+            "empGen": "Female",
+            "empEmail": "lakshmiA@example.com",
+            "empPhone": 8987654321,
+            "empLoc": "Hyderabad"
+        },
+        {
+            "id": 6,
+            "empId": "EMP105",
+            "empName": "Karthik",
+            "empAge": 29,
+            "empSal": 54000,
+            "empDept": "Sales",
+            "empGen": "Male",
+            "empEmail": "karthikS@example.com",
+            "empPhone": 9871234560,
+            "empLoc": "Pune"
+        },
+        {
+            "id": 7,
+            "empId": "EMP106",
+            "empName": "Priya",
+            "empAge": 26,
+            "empSal": 50000,
+            "empDept": "Marketing",
+            "empGen": "Female",
+            "empEmail": "priyaM@example.com",
+            "empPhone": 8765432109,
+            "empLoc": "Kolkata"
+        },
+        {
+            "id": 8,
+            "empId": "EMP107",
+            "empName": "Rohit",
+            "empAge": 24,
+            "empSal": 47000,
+            "empDept": "IT",
+            "empGen": "Male",
+            "empEmail": "rohitIT@example.com",
+            "empPhone": 9987654321,
+            "empLoc": "Chennai"
+        },
+        {
+            "id": 9,
+            "empId": "EMP108",
+            "empName": "Anjali",
+            "empAge": 31,
+            "empSal": 63000,
+            "empDept": "Finance",
+            "empGen": "Female",
+            "empEmail": "anjaliF@example.com",
+            "empPhone": 9098765432,
+            "empLoc": "Mumbai"
+        },
+        {
+            "id": 10,
+            "empId": "EMP109",
+            "empName": "Vijay",
+            "empAge": 33,
+            "empSal": 70000,
+            "empDept": "Operations",
+            "empGen": "Male",
+            "empEmail": "vijayO@example.com",
+            "empPhone": 9123987654,
+            "empLoc": "Delhi"
+        },
+        {
+            "id": 11,
+            "empId": "EMP110",
+            "empName": "Meera",
+            "empAge": 29,
+            "empSal": 58000,
+            "empDept": "HR",
+            "empGen": "Female",
+            "empEmail": "meeraHR@example.com",
+            "empPhone": 8765098765,
+            "empLoc": "Bangalore"
+        }
+    ]
+}
